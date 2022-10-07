@@ -1,4 +1,4 @@
-# Stroke Prediction Dataset
+# Stroke Prediction 
 
 [kaggle 링크](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
