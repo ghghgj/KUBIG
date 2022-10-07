@@ -3,7 +3,7 @@
 [kaggle 링크](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 
-2021년 2학기 [뇌 및 머신러닝 입문] 
+2021년 2학기 [뇌 및 머신러닝 입문] 팀프로젝트 자료입니다. 
 
 팀원: 
 산업경영공학부 이병주, 바이오의공학부 조여정, 지구환경과학과 차수지
