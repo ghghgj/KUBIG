@@ -1,3 +1,4 @@
+# 간단한 자기소개 
 
 <img src="https://user-images.githubusercontent.com/56988312/195076933-355025fc-e52f-4a3f-9a87-0a175ae4ba47.JPG"  width="150">
 
