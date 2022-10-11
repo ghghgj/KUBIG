@@ -1,8 +1,5 @@
-- 👋 Hi, I’m ByeongJu Lee
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning ML, Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 이름 : 이병주 
+
 - email: wcn05217@naver.com
 
 <!---
